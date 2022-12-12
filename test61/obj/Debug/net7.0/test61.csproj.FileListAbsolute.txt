@@ -1,0 +1,15 @@
+C:\Users\yuriy\Desktop\Test_4\test6\test61\bin\Debug\net7.0\test61.exe
+C:\Users\yuriy\Desktop\Test_4\test6\test61\bin\Debug\net7.0\test61.deps.json
+C:\Users\yuriy\Desktop\Test_4\test6\test61\bin\Debug\net7.0\test61.runtimeconfig.json
+C:\Users\yuriy\Desktop\Test_4\test6\test61\bin\Debug\net7.0\test61.dll
+C:\Users\yuriy\Desktop\Test_4\test6\test61\bin\Debug\net7.0\test61.pdb
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.csproj.AssemblyReference.cache
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.dll
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\refint\test61.dll
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.pdb
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\test61.genruntimeconfig.cache
+C:\Users\yuriy\Desktop\Test_4\test6\test61\obj\Debug\net7.0\ref\test61.dll
